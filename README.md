@@ -1,10 +1,12 @@
 <h1><div>1.download zip</div> 
     <div>2.extract folder on your PC</div> 
     <div>3.go to dir in terminal 'dobromir-petrevski-employees-main'</div> 
-    <div>4.run: php artisan serve</div> 
+    <div>4.run: php artisan serve (PHP 8.3.6)</div> 
     <div>5.browse http://127.0.0.1:8000</div>
     <div>6.Click on Employees</div>
     <div>7.Upload your CSV</div>
+
+<li>PHP 8.3.6 / laravel v11.31.0</li>
 </h1>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
