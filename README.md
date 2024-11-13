@@ -1,10 +1,9 @@
-<h1><div>1.download zip</div> 
-    <div>2.extract folder on your PC</div> 
-    <div>3.go to dir in terminal 'dobromir-petrevski-employees-main'</div> 
-    <div>4.run: php artisan serve (PHP 8.3.6)</div> 
-    <div>5.browse http://127.0.0.1:8000</div>
-    <div>6.Click on Employees</div>
-    <div>7.Upload your CSV</div>
+<h1><div>1. download zip and extract folder on your PC or checkout the project</div> 
+    <div>2. go to dir in terminal 'dobromir-petrevski-employees-main'</div> 
+    <div>3. run: php artisan serve (PHP 8.3.6)</div> 
+    <div>4. browse http://127.0.0.1:8000</div>
+    <div>5. Click on Employees</div>
+    <div>6. Upload your CSV</div>
 
 <li>PHP 8.3.6 / laravel v11.31.0</li>
 </h1>
